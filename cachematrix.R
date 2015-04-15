@@ -1,5 +1,5 @@
 
-## creates a list of functions of getters and setters to the matrix value (-1) value
+## creates a list of functions of getters and setters to the matrix value and (-1) value
 makeCacheMatrix <- function(x = matrix()) {
     cS <- NULL 
     set <- function(y) { 
